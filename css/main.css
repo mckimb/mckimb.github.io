@@ -22,7 +22,7 @@ nav ul, footer ul {
     padding-top: 20px;
 }
 .sidenav p {
-    padding: 6px 8px 6px 16px;
+    padding: 6px 8px 6px 32px;
     text-decoration: none;
     font-size: 33px;
     color: #f1f1f1;
@@ -30,7 +30,7 @@ nav ul, footer ul {
 }
 
 .sidenav a {
-    padding: 6px 8px 6px 16px;
+    padding: 6px 8px 6px 32px;
     text-decoration: none;
     font-size: 25px;
     color: #818181;
