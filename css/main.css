@@ -11,7 +11,7 @@ nav ul, footer ul {
 }
 .sidenav {
     height: 100%;
-    width: 260px;
+    width: 230px;
     position: fixed;
     z-index: 1;
     top: 0;
