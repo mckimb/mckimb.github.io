@@ -35,6 +35,8 @@ nav ul, footer ul {
 
 .main {
     margin-left: 230px; /* Same as the width of the sidenav */
+}
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
