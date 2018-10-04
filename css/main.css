@@ -21,6 +21,13 @@ nav ul, footer ul {
     overflow-x: hidden;
     padding-top: 20px;
 }
+.sidenav p {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    color: #f1f1f1;
+    display: block;
+}
 
 .sidenav a {
     padding: 6px 8px 6px 16px;
@@ -32,10 +39,6 @@ nav ul, footer ul {
 
 .sidenav a:hover {
     color: #f1f1f1;
-}
-
-.main {
-    margin-left: 230px; /* Same as the width of the sidenav */
 }
 
 nav ul li, footer ul li {
