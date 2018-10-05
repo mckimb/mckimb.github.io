@@ -4,6 +4,9 @@ body {
     width: 70%;
     font-family: "Lato", sans-serif;
 }
+
+img.wrap {float: right}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
