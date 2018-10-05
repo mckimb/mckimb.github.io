@@ -7,7 +7,7 @@ body {
 
 img.wrap {
     float: left;
-    padding: 20px;
+    margin-right: 20px;
 }
 
 nav ul, footer ul {
