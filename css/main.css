@@ -5,7 +5,7 @@ body {
     font-family: "Lato", sans-serif;
 }
 
-img.wrap {float: right}
+img.wrap {float: left}
 
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
