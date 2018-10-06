@@ -37,7 +37,7 @@ nav ul, footer ul {
 }
 .sidenav {
     height: 100%;
-    width: 230px;
+    width: 210px;
     position: fixed;
     z-index: 1;
     top: 0;
