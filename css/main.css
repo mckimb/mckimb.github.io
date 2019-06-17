@@ -32,11 +32,11 @@ body a:hover {
 		#left { left: 0; }
 		#right { right: 0; }
 		
-	#top, #bottom {
+	 #bottom {
 		left: 0; right: 0;
 		height: 15px;
 		}
-/* 		#top { top: 0; } */
+		#top { top: 0; }
 		#bottom { bottom: 0; }
 
 .sidenav a:hover {
