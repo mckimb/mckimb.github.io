@@ -40,7 +40,7 @@ body a:hover {
 	#left, #right {
 		top: 0; bottom: 0;
 		width: 15px;
-		border-radius: 15px;
+/* 		border-radius: 55px; */
 		}
 		#left { left: 0; }
 		#right { right: 0; }
@@ -48,7 +48,7 @@ body a:hover {
 	 #bottom {
 		left: 0; right: 0;
 		height: 15px;
-		border-radius: 15px;
+/* 		border-radius: 55px; */
 		}
 		#top { top: 0; }
 		#bottom { bottom: 0; }
