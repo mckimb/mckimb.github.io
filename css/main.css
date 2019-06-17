@@ -46,20 +46,20 @@ body a:hover {
 	position: fixed;
 	}
 	#left2, #right2 {
-		top: 0; bottom: 0;
+		top: 10; bottom: 10;
 		width: 15px;
 /* 		border-radius: 55px; */
 		}
-		#left2 { left: 0; }
-		#right2 { right: 0; }
+		#left2 { left: 10; }
+		#right2 { right: 10; }
 		
 	 #bottom2 {
-		left: 0; right: 0;
+		left: 10; right: 10;
 		height: 15px;
 /* 		border-radius: 55px; */
 		}
-		#top2 { top: 0; }
-		#bottom2 { bottom: 0; }
+		#top2 { top: 10; }
+		#bottom2 { bottom: 10; }
 
 .sidenav a:hover {
     color: #f1f1f1;
