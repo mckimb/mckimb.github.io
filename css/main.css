@@ -22,7 +22,7 @@ body a:hover {
 }
 
 #top, #bottom, #left, #right {
-	background: #191970;
+	background: #D22222;
 	position: fixed;
 	}
 	#left, #right {
@@ -40,6 +40,26 @@ body a:hover {
 		}
 		#top { top: 0; }
 		#bottom { bottom: 0; }
+
+#top2, #bottom2, #left2, #right2 {
+	background: #191970;
+	position: fixed;
+	}
+	#left2, #right2 {
+		top: 0; bottom: 0;
+		width: 15px;
+/* 		border-radius: 55px; */
+		}
+		#left2 { left: 0; }
+		#right2 { right: 0; }
+		
+	 #bottom2 {
+		left: 0; right: 0;
+		height: 15px;
+/* 		border-radius: 55px; */
+		}
+		#top { top: 0; }
+#bottom { bottom: 0; }
 
 .sidenav a:hover {
     color: #f1f1f1;
