@@ -42,7 +42,7 @@ body a:hover {
 		#bottom { bottom: 0; }
 
 #top2, #bottom2, #left2, #right2 {
-	background: #D22222;
+	background: white;
 	position: fixed;
 	}
 	#left2, #right2 {
