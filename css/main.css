@@ -22,7 +22,7 @@ body a:hover {
 }
 
 #top, #bottom, #left, #right {
-	background: #D22222;
+	background: #191970;
 	position: fixed;
 	}
 	#left, #right {
@@ -42,11 +42,11 @@ body a:hover {
 		#bottom { bottom: 0; }
 
 #top2, #bottom2, #left2, #right2 {
-	background: #191970;
+	background: #D22222;
 	position: fixed;
 	}
 	#left2, #right2 {
-		top: 10px; bottom: 10px;
+		top: 0px; bottom: 0px;
 		width: 15px;
 /* 		border-radius: 55px; */
 		}
