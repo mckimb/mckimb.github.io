@@ -5,6 +5,12 @@ body {
     font-family: "Lato", sans-serif;
 }
 
+
+body {
+border: 5px solid #B22222;
+}
+
+
 body p {
     font-size: 20px;
     color: #202020;
