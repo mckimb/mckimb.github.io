@@ -119,17 +119,31 @@ nav ul li, footer ul li {
   position: absolute;
 }
 .vl4 {
-  border-left: 15px solid #416ded;
+  border-left: 15px solid #ed700d;
   margin-left: -150px;
   height: 10%;
   top: 40%;
   position: absolute;
 }
 .vl5 {
-  border-left: 15px solid #ed700d;
+  border-left: 15px solid #24292e;
   margin-left: -150px;
-  height: 50%;
-  top: 50%;
+  height: 10%;
+  top: 60%;
+  position: absolute;
+}
+.vl6 {
+  border-left: 15px solid #416ded;
+  margin-left: -150px;
+  height: 10%;
+  top: 70%;
+  position: absolute;
+}
+.vl7 {
+  border-left: 15px solid #24292e;
+  margin-left: -150px;
+  height: 20%;
+  top: 80%;
   position: absolute;
 }
 .topnav li{
