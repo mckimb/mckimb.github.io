@@ -21,6 +21,7 @@ body a:hover {
     text-decoration: underline;
 }
 
+/*
 #top, #bottom, #left, #right {
 	background: #46B29E;
 	position: fixed;
@@ -39,7 +40,7 @@ body a:hover {
 		#top { top: 0; }
 		#bottom { bottom: 0; }
 
-/*
+
 #top2, #bottom2, #left2, #right2 {
 	background: white;
 	position: fixed;
@@ -75,7 +76,7 @@ nav ul, footer ul {
 
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 235px;
 }
 
 .topnav {
