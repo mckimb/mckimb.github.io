@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
-    margin-left: 250px;
-    width: 70%;
+    // margin-left: 250px;
+    // width: 70%;
     font-family: "Lato", sans-serif;
 }
 
@@ -116,8 +116,6 @@ nav ul li, footer ul li {
 }
 
 .topnav a {
-  top: 0;
-  left: 0;
   float: left;
   font-size: 25px;
   color: #818181;
