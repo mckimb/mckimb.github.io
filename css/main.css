@@ -99,7 +99,7 @@ nav ul li, footer ul li {
     text-align:center;
 }
 .vl1 {
-  border-left: 15px solid #a40912;
+  border-left: 15px solid #24292e;
   margin-left: -150px;
   height: 20%;
   position: absolute;
@@ -112,7 +112,7 @@ nav ul li, footer ul li {
   position: absolute;
 }
 .vl3 {
-  border-left: 15px solid #a40912;
+  border-left: 15px solid #24292e;
   margin-left: -150px;
   height: 10%;
   top: 30%;
