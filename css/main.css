@@ -99,6 +99,21 @@ nav ul li, footer ul li {
     text-align:center;
 }
 
+.vl1 {
+  border-left: 6px solid #4760e2;
+  height: 100%;
+  position: absolute;
+  margin-left: -3px;
+  top: 0;
+}
+.vl2 {
+  border-left: 6px solid #4760e2;
+  height: 100%;
+  position: absolute;
+  margin-right: 3px;
+  top: 0;
+}
+
 .topnav li{
     display:inline;
 }
