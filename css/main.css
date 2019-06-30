@@ -4,7 +4,7 @@ body {
     \\ font-family: "Lato", sans-serif;
     font-family: "Bitstream Charter";
 }
-
+/*
 body h2 {
     \\ color: #e24760;
     \\ background-color: #EFCA58;
@@ -23,7 +23,7 @@ h2 span {
     background:#fff; 
     padding:0 10px; 
 }
-
+*/
 body p {
     font-size: 17px;
     color: #272822
