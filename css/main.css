@@ -100,6 +100,7 @@ nav ul li, footer ul li {
 }
 .vl1 {
   border-left: 5px solid #4760e2;
+  margin-left: -150px;
   height: 25%;
   position: absolute;
 }
