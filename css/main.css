@@ -18,12 +18,12 @@ body p {
 body a {
     font-size: 17px;
     \\ color: #268BD2;
-    color: #004f92;
+    color: #416ded;
 }
 
 body a:hover {
     \\ color: #268BD2;
-    color: #004f92;
+    color: #416ded;
     text-decoration: underline;
 }
 
@@ -91,7 +91,7 @@ nav ul li, footer ul li {
 	
 .topnav {
     \\ border:2px solid #272822;
-    border:2px solid #004f92;
+    border:2px solid #416ded;
     border-width:2px 0;
     list-style:none;
     margin:0;
@@ -105,7 +105,7 @@ nav ul li, footer ul li {
   position: absolute;
 }
 .vl2 {
-  border-left: 15px solid #004f92;
+  border-left: 15px solid #416ded;
   margin-left: -150px;
   height: 10%;
   top: 20%;
@@ -119,14 +119,14 @@ nav ul li, footer ul li {
   position: absolute;
 }
 .vl4 {
-  border-left: 15px solid #004f92;
+  border-left: 15px solid #416ded;
   margin-left: -150px;
   height: 10%;
   top: 40%;
   position: absolute;
 }
 .vl5 {
-  border-left: 15px solid #ffcd09;
+  border-left: 15px solid #ed700d;
   margin-left: -150px;
   height: 50%;
   top: 50%;
