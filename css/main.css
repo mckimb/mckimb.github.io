@@ -82,6 +82,10 @@ nav ul li, footer ul li {
     margin-right: 235px;
 }
 
+.blurb p {
+    color: #f8f8f1
+}
+	
 .topnav {
     border:2px solid #f8f8f1;
     // border:2px solid #272822;
