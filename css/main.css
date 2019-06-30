@@ -4,10 +4,14 @@ body {
     font-family: "Lato", sans-serif;
 }
 
-
+body h2 {
+    color: #f8f8f1
+}
+	
 body p {
     font-size: 17px;
-    color: #272822
+    // color: #272822
+    color: #f8f8f1
 }
 
 body a {
@@ -79,7 +83,8 @@ nav ul li, footer ul li {
 }
 
 .topnav {
-    border:2px solid #272822;
+    border:2px solid #f8f8f1;
+    // border:2px solid #272822
     border-width:2px 0;
     list-style:none;
     margin:0;
