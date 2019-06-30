@@ -1,15 +1,12 @@
 body {
-    // margin: 60px auto;
     margin-left: 150px;
     margin-right: 150px;
-    // width: 70%;
     font-family: "Lato", sans-serif;
 }
 
 
 body p {
     font-size: 17px;
-    // color: #202020;
     color: #272822
 }
 
@@ -90,21 +87,6 @@ nav ul li, footer ul li {
     text-align:center;
 }
 
-/*
-.topnav {
-  overflow: hidden;
-  background-color: #202020;
-  z-index: -1;
-  top: 0;
-  left: 0;
-  height: 50px;
-  width: 100%;
-  padding-top: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
-}
-*/
 .topnav li{
     display:inline;
 }
