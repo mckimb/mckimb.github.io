@@ -98,6 +98,13 @@ nav ul li, footer ul li {
     padding:0;
     text-align:center;
 }
+.dot1 {
+  height: 25%;
+  width: 10%;
+  background-color: #edc141;
+  border-radius: 50%;
+  display: inline-block;
+}
 .vl1 {
   border-left: 15px solid #416ded;
   margin-left: -150px;
