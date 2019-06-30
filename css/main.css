@@ -14,7 +14,8 @@ body p {
 
 body a {
     font-size: 17px;
-    color: #268BD2;
+    // color: #268BD2;
+    color: #272822
 }
 
 body a:hover {
