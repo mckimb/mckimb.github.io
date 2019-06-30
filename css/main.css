@@ -99,7 +99,7 @@ nav ul li, footer ul li {
     text-align:center;
 }
 .vl1 {
-  border-left: 15px solid #3088bf;
+  border-left: 15px solid #416ded;
   margin-left: -150px;
   height: 20%;
   position: absolute;
@@ -112,21 +112,21 @@ nav ul li, footer ul li {
   position: absolute;
 }
 .vl3 {
-  border-left: 15px solid #3088bf;
+  border-left: 15px solid #416ded;
   margin-left: -150px;
   height: 10%;
   top: 30%;
   position: absolute;
 }
 .vl4 {
-  border-left: 15px solid #416ded;
+  border-left: 15px solid #edc141;
   margin-left: -150px;
   height: 20%;
   top: 40%;
   position: absolute;
 }
 .vl5 {
-  border-left: 15px solid #3088bf;
+  border-left: 15px solid #416ded;
   margin-left: -150px;
   height: 10%;
   top: 60%;
@@ -140,7 +140,7 @@ nav ul li, footer ul li {
   position: absolute;
 }
 .vl7 {
-  border-left: 15px solid #3088bf;
+  border-left: 15px solid #416ded;
   margin-left: -150px;
   height: 20%;
   top: 80%;
