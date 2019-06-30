@@ -113,6 +113,9 @@ nav ul li, footer ul li {
 .topnav {
   overflow: hidden;
   background-color: #202020;
+  z-index: 1;
+  height: 50px;
+  width: 100%;
 }
 
 .topnav a {
