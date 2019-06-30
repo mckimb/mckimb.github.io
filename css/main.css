@@ -108,6 +108,9 @@ nav ul li, footer ul li {
 .topnav li{
     display:inline;
 }
+.topnav p{
+    display:inline;
+}
 .topnav a {
   display:inline-block;
   padding: 15px;
