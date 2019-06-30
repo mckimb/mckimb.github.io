@@ -11,11 +11,13 @@ body p {
 
 body a {
     font-size: 17px;
-    color: #268BD2;
+    \\ color: #268BD2;
+    color: #46b29e;
 }
 
 body a:hover {
-    color: #268BD2;
+    \\ color: #268BD2;
+    color: #46b29e;
     text-decoration: underline;
 }
 
