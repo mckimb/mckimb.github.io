@@ -1,6 +1,7 @@
 body {
     // margin: 60px auto;
-     margin-left: 250px;
+    margin-left: 150px;
+    margin-right: 150px;
     // width: 70%;
     font-family: "Lato", sans-serif;
 }
@@ -94,7 +95,11 @@ nav ul li, footer ul li {
   font-size: 25px;
   color: #818181;
   text-align: center;
-  padding: 14px 16px;
+  // padding: 14px 16px;
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
   text-decoration: none;
 }
 
