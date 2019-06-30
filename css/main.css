@@ -99,16 +99,37 @@ nav ul li, footer ul li {
     text-align:center;
 }
 .vl1 {
-  border-left: 15px solid #4760e2;
+  border-left: 15px solid #e24760;
   margin-left: -150px;
-  height: 25%;
+  height: 20%;
   position: absolute;
 }
 .vl2 {
+  border-left: 15px solid #4760e2;
+  margin-left: -150px;
+  height: 10%;
+  top: 20%;
+  position: absolute;
+}
+.vl3 {
   border-left: 15px solid #e24760;
   margin-left: -150px;
-  height: 25%;
-  top: 25%;
+  height: 10%;
+  top: 30%;
+  position: absolute;
+}
+.vl4 {
+  border-left: 15px solid #4760e2;
+  margin-left: -150px;
+  height: 10%;
+  top: 40%;
+  position: absolute;
+}
+.vl5 {
+  border-left: 15px solid #efca58;
+  margin-left: -150px;
+  height: 50%;
+  top: 50%;
   position: absolute;
 }
 .topnav li{
