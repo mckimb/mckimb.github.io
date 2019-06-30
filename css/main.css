@@ -9,13 +9,13 @@ body {
 
 body p {
     font-size: 17px;
-    color: #202020;
+    // color: #202020;
+    color: #272822
 }
 
 body a {
     font-size: 17px;
-    // color: #268BD2;
-    color: #272822
+    color: #268BD2;
 }
 
 body a:hover {
