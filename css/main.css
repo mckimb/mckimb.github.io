@@ -111,32 +111,25 @@ nav ul li, footer ul li {
 }
 
 .topnav {
-    float: left;
-    background-color: #202020;
-    text-align: center;
-    overflow: hidden;
-}
-.topnav p {
-    padding: 6px 8px 6px 32px;
-    text-decoration: none;
-    font-size: 33px;
-    color: #f1f1f1;
-    display: block;
+  overflow: hidden;
+  background-color: #202020;
 }
 
 .topnav a {
-    padding: 6px 8px 6px 32px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #818181;
-    display: block;
+  float: left;
+  font-size: 25px;
+  color: #818181;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 .topnav a:hover {
-    color: #f1f1f1;
-    background-color: #EFCA58;
-    text-decoration: underline;
+  background-color: #EFCA58;
+  text-decoration: underline;
+  color: #f1f1f1;
 }
+
 
 a {
     text-decoration: none;
