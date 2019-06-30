@@ -88,18 +88,16 @@ nav ul li, footer ul li {
   left: 0;
   height: 50px;
   width: 100%;
-}
-
-.topnav a {
-  float: none;
-  font-size: 25px;
-  color: #818181;
-  text-align: center;
-  // padding: 14px 16px;
   padding-top: 20px;
   padding-right: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
+}
+
+.topnav a {
+  font-size: 25px;
+  color: #818181;
+  text-align: center;
   text-decoration: none;
 }
 
