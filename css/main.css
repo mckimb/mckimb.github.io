@@ -111,15 +111,10 @@ nav ul li, footer ul li {
 }
 
 .topnav {
-    height: 50px;
-    width: 100%;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
+    float: left;
     background-color: #202020;
+    text-align: center;
     overflow-x: hidden;
-    padding-top: 0px;
 }
 .topnav p {
     padding: 6px 8px 6px 32px;
@@ -141,7 +136,6 @@ nav ul li, footer ul li {
     color: #f1f1f1;
     text-decoration: underline;
 }
-
 
 a {
     text-decoration: none;
