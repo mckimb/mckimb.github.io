@@ -115,8 +115,8 @@ nav ul li, footer ul li {
 .topnav a:hover {
   background-color: #EFCA58;
   text-decoration: underline;
-  // color: #272822;
-  color: #f8f8f1;
+  color: #272822;
+  // color: #f8f8f1;
 }
 
 
