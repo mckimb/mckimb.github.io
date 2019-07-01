@@ -67,6 +67,13 @@ body a:hover {
     color: #dbafa2;
     text-decoration: underline;
 }
+.blurb UL {
+    color: white;
+}
+
+.blurb li {
+    color: white;
+}
 
 .blurb a {
     color: #d39c8b;
