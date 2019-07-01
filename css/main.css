@@ -1,6 +1,6 @@
 body {
-    margin-left: 30px;
-    margin-right: 30px;
+    \\ margin-left: 30px;
+    \\ margin-right: 30px;
     font-family: "Lato", sans-serif;
     \\ font-family: "Bitstream Charter";
     \\ background-image: "exoplanet.jpg";
@@ -28,7 +28,9 @@ h2 span {
 */
 body p {
     font-size: 17px;
-    color: #272822
+    color: #272822;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 body a {
@@ -87,6 +89,8 @@ body a:hover {
 img.wrap {
     float: right;
     margin-left: 50px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 nav ul, footer ul {
