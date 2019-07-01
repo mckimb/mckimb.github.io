@@ -36,8 +36,8 @@ h2 span {
 */
 body p {
     font-size: 17px;
-    \\ color: #272822;
-    color: #0b322b;
+    color: #272822;
+    \\ color: #0b322b;
     \\ color: #f5f3ee;
     margin-left: 30px;
     margin-right: 30px;
@@ -129,7 +129,7 @@ nav ul li, footer ul li {
 }
 
 .blurb p {
-    color: #272822;
+    \\ color: #272822;
     color: white;
 }
 	
