@@ -19,6 +19,13 @@ body h3 {
     color: #be6d54;
 }
 
+h3 {
+  position: absolute;
+  left: 10%;
+  top: 50px;
+  z-index: 1;
+}
+
 /*
 h2 {
    width: 100%; 
