@@ -4,7 +4,7 @@ body {
     \\ font-family: "Lato", sans-serif;
     font-family: "Bitstream Charter";
     background-color: #0b322b;
-    background-image:radial-gradient(circle,#234640,#0b322b)
+    background-image:radial-gradient(circle,#234640,#0b322b);
     \\ background-image: "exoplanet.jpg";
     \\ background-color: #3f51b5;
 }
