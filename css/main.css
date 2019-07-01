@@ -47,17 +47,19 @@ body a {
     \\ color: #268BD2;
     \\ color: #416ded;
     color: #be6d54;
+    text-decoration: none;
 }
 
 body a:hover {
     \\ color: #268BD2;
     \\ color: #416ded;
-    color: #be6d54;
+    color: #d39c8b;
     text-decoration: underline;
 }
 
 .blurb a {
     color: #be6d54;
+    text-decoration: none;
 }
 
 .blurb a:hover {
