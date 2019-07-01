@@ -11,11 +11,13 @@ body {
 }
 
 body h1 {
-    color: #e9bf40;
+    \\ color: #e9bf40;
+    color: #b68e15;
 }
 
 body h2 {
-    color: #e9bf40;
+    \\ color: #e9bf40;
+    color: #b68e15;
 }
 
 body h3 {
