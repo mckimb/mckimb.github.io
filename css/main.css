@@ -1,22 +1,16 @@
 body {
     margin-left: 150px;
     margin-right: 150px;
-    \\ font-family: "Lato", sans-serif;
     font-family: "Bitstream Charter";
     background-color: #0b322b;
-    \\ background-image:radial-gradient(circle,#274f49,#0a2f3b);
     background-image:radial-gradient(circle,#156c7d,#0a2f3b);
-    \\ background-image: "exoplanet.jpg";
-    \\ background-color: #3f51b5;
 }
 
 body h1 {
-    \\ color: #e9bf40;
     color: #b68e15;
 }
 
 body h2 {
-    \\ color: #e9bf40;
     color: #b68e15;
 }
 
@@ -26,50 +20,28 @@ body h3 {
 
 h3 {
   position: absolute;
-  \\ left: 10%;
   top: 25px;
   z-index: 1;
 }
 
-/*
-h2 {
-   width: 100%; 
-   \\ text-align: left; 
-   \\ border-bottom: 2px solid #c02628;
-   border-bottom: 2px solid #efca58;
-   line-height: 0.1em;
-   margin: 10px 0 20px; 
-} 
-
-h2 span { 
-    background:#fff; 
-    padding:0 10px; 
-}
-*/
 body p {
     font-size: 17px;
     color: white;
-    \\color: #272822;
-    \\ color: #0b322b;
-    \\ color: #f5f3ee;
     margin-left: 30px;
     margin-right: 30px;
 }
 
 body a {
     font-size: 17px;
-    \\ color: #268BD2;
-    \\ color: #416ded;
     color: white;
     text-decoration: underline;
 }
 
 body a:hover {
-    \\ color: #268BD2;
-    \\ color: #416ded;
     color: #e6e6fa;
     text-decoration: underline;
 }
+
 .blurb UL {
     color: white;
 }
@@ -87,59 +59,6 @@ body a:hover {
     color: #e6e6fa;
     text-decoration: underline;
 }
-
-/*
-#top, #bottom, #left, #right {
-	background: #46B29E;
-	position: fixed;
-	}
-	#left, #right {
-		top: 0; bottom: 0;
-		width: 25px;
-		}
-		#left { left: 0; }
-		#right { right: 0; }
-		
-	 #bottom {
-		left: 0; right: 0;
-		height: 25px;
-		}
-		#top { top: 0; }
-		#bottom { bottom: 0; }
-
-
-#top2, #bottom2, #left2, #right2 {
-	background: white;
-	position: fixed;
-	}
-	#left2, #right2 {
-		top: 0px; bottom: 20px;
-		width: 25px;
-		border-radius: 20px;
-		}
-		#left2 { left: 20px; }
-		#right2 { right: 20px; }
-		
-	 #bottom2 {
-		left: 20px; right: 20px;
-		height: 25px;
-		border-radius: 20px;
-		}
-		#top2 { top: 20px; }
-		#bottom2 { bottom: 20px; }
-*/
-/*
-img.wrap {
-    float: right;
-    margin-left: 50px;
-    margin-left: 30px;
-    margin-right: 30px;
-    background-color: #a376a1;
-    border: 15px;
-    border-color: #a376a1;
-    border-radius: 5%;
-}
-*/
 
 img.wrap {
     float: right;
@@ -163,7 +82,6 @@ nav ul li, footer ul li {
 }
 
 .blurb p {
-    \\ color: #272822;
     color: white;
 }
 
@@ -174,71 +92,16 @@ nav ul li, footer ul li {
   border-radius: 50%;
   display: inline-block;
 }
-.vl1 {
-  border-left: 15px solid #416ded;
-  margin-left: -150px;
-  height: 20%;
-  position: absolute;
-}
-.vl2 {
-  border-left: 15px solid #af465b;
-  margin-left: -150px;
-  height: 10%;
-  top: 20%;
-  position: absolute;
-}
-.vl3 {
-  border-left: 15px solid #416ded;
-  margin-left: -150px;
-  height: 10%;
-  top: 30%;
-  position: absolute;
-}
-.vl4 {
-  border-left: 15px solid #edc141;
-  margin-left: -150px;
-  height: 20%;
-  top: 40%;
-  position: absolute;
-}
-.vl5 {
-  border-left: 15px solid #416ded;
-  margin-left: -150px;
-  height: 10%;
-  top: 60%;
-  position: absolute;
-}
-.vl6 {
-  border-left: 15px solid #af465b;
-  margin-left: -150px;
-  height: 10%;
-  top: 70%;
-  position: absolute;
-}
-.vl7 {
-  border-left: 15px solid #416ded;
-  margin-left: -150px;
-  height: 20%;
-  top: 80%;
-  position: absolute;
-}
 
 .topnav {
     position: absolute;
-    \\ border:2px solid #272822;
-    \\ border:2px solid #3f51b5;
     padding: 30px 30px;
-    \\ width: 100%;
     background-color: #e9e6df;
     overflow: hidden;
-    \\ border-width:2px 0;
     list-style:none;
-    \\ margin:0;
-    \\ padding:0;
     top: 0;
     left: 0;
     right: 0;
-    \\ margin-left: 150px;
     text-align:right;
 }
 
@@ -255,7 +118,6 @@ nav ul li, footer ul li {
 }
 
 .topnav a:hover {
-  \\ background-color: #EFCA58;
   text-decoration: underline;
   color: #274f49;
 }
@@ -266,7 +128,6 @@ nav ul li, footer ul li {
   top: 70%;
   height: 200px;
   padding: 10px ;
-  \\ border: 1px solid green ;
   position: absolute;
 } 
 
@@ -274,10 +135,4 @@ nav ul li, footer ul li {
 	width:100px;
 	height:100px;
 }
-/*
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-*/
+
