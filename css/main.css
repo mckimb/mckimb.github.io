@@ -208,6 +208,7 @@ nav ul li, footer ul li {
   color: #0b322b;
   text-decoration: none;
   text-align:right;
+  right: 0;
 }
 
 .topnav a:hover {
