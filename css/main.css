@@ -58,14 +58,14 @@ body a {
     font-size: 17px;
     \\ color: #268BD2;
     \\ color: #416ded;
-    color: #9e5e9b;
+    color: #ecc757;
     text-decoration: none;
 }
 
 body a:hover {
     \\ color: #268BD2;
     \\ color: #416ded;
-    color: #dbafa2;
+    color: #f1d685;
     text-decoration: underline;
 }
 .blurb UL {
@@ -77,12 +77,12 @@ body a:hover {
 }
 
 .blurb a {
-    color: #9e5e9b;
+    color: #ecc757;
     text-decoration: none;
 }
 
 .blurb a:hover {
-    color: #dbafa2;
+    color: #f1d685;
     text-decoration: underline;
 }
 
