@@ -21,8 +21,8 @@ body h3 {
 
 h3 {
   position: absolute;
-  left: 10%;
-  top: 50px;
+  \\ left: 10%;
+  top: 25px;
   z-index: 1;
 }
 
