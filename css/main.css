@@ -189,10 +189,11 @@ nav ul li, footer ul li {
     right: 0;
 }
 
-.topnav li{
+.topnav li {
     display:inline;
 }
-.topnav p{
+/*
+.topnav p {
   \\ margin-left: 150px;
   display:inline-block;
   padding: 15px;
@@ -201,10 +202,11 @@ nav ul li, footer ul li {
   text-align: left;
   text-decoration: none;
 }
-
+*/
 
 
 .topnav a {
+  margin-left: 150px;
   display:inline-block;
   padding: 15px;
   font-size: 20px;
