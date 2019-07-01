@@ -1,9 +1,9 @@
 body {
     margin-left: 30px;
     margin-right: 30px;
-    \\ font-family: "Lato", sans-serif;
-    font-family: "Bitstream Charter";
-    background-image: "exoplanet.jpg";
+    font-family: "Lato", sans-serif;
+    \\ font-family: "Bitstream Charter";
+    \\ background-image: "exoplanet.jpg";
 }
 /*
 body h2 {
