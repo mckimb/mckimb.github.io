@@ -207,6 +207,7 @@ nav ul li, footer ul li {
   font-size: 15px;
   color: #0b322b;
   text-decoration: none;
+  text-align:right;
 }
 
 .topnav a:hover {
