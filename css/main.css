@@ -36,8 +36,8 @@ h2 span {
 */
 body p {
     font-size: 17px;
-    \\ color: #272822;
-    color: #f5f3ee;
+    color: #272822;
+    \\ color: #f5f3ee;
     margin-left: 30px;
     margin-right: 30px;
 }
