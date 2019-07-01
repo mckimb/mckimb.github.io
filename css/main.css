@@ -4,10 +4,11 @@ body {
     font-family: "Lato", sans-serif;
     \\ font-family: "Bitstream Charter";
     \\ background-image: "exoplanet.jpg";
+    background-color: #ffc107;
 }
 /*
 body h2 {
-    \\ color: #e24760;
+    \\ #e24760;
     \\ background-color: #EFCA58;
 }
 
