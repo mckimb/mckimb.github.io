@@ -57,14 +57,14 @@ body a {
     font-size: 17px;
     \\ color: #268BD2;
     \\ color: #416ded;
-    color: #be6d54;
+    color: #d39c8b;
     text-decoration: none;
 }
 
 body a:hover {
     \\ color: #268BD2;
     \\ color: #416ded;
-    color: #d39c8b;
+    color: #dbafa2;
     text-decoration: underline;
 }
 
