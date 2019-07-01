@@ -251,16 +251,19 @@ nav ul li, footer ul li {
 }
 
 .demobox {
-  background-color: #6aac90 ;
-  width: 110%;
+  background-color: #6aac90;
+  width: 100%;
   top: 70%;
-  left:0;
   height: 200px;
   padding: 10px ;
   \\ border: 1px solid green ;
   position: absolute;
 } 
 
+.box{
+	width:100px;
+	height:100px;
+}
 /*
 a {
     text-decoration: none;
