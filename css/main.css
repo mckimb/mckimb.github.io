@@ -28,7 +28,8 @@ h2 span {
 */
 body p {
     font-size: 17px;
-    color: #272822;
+    \\ color: #272822;
+    color: white;
     margin-left: 30px;
     margin-right: 30px;
 }
@@ -41,7 +42,8 @@ body a {
 
 body a:hover {
     \\ color: #268BD2;
-    color: #416ded;
+    \\ color: #416ded;
+    color: #ffc107;
     text-decoration: underline;
 }
 
