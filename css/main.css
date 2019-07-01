@@ -37,7 +37,8 @@ body p {
 body a {
     font-size: 17px;
     \\ color: #268BD2;
-    color: #416ded;
+    \\ color: #416ded;
+    color: #ffc107;
 }
 
 body a:hover {
