@@ -45,7 +45,8 @@ h2 span {
 */
 body p {
     font-size: 17px;
-    color: #272822;
+    color: white;
+    \\color: #272822;
     \\ color: #0b322b;
     \\ color: #f5f3ee;
     margin-left: 30px;
@@ -141,7 +142,15 @@ nav ul li, footer ul li {
     \\ color: #272822;
     color: white;
 }
-	
+
+ul li::before {
+  \\ content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: white; /* Change the color */
+  \\ font-weight: bold; /* If you want it to be bold */
+  \\ display: inline-block; /* Needed to add space between the bullet and the text */
+  \\ width: 1em; /* Also needed for space (tweak if needed) */
+  \\ margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
 
 .dot1 {
   height: 25%;
