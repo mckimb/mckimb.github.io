@@ -12,7 +12,7 @@ body h2 {
     color: white;
     \\ background-color: #EFCA58;
 }
-
+/*
 h2 {
    width: 100%; 
    \\ text-align: left; 
@@ -110,7 +110,8 @@ nav ul li, footer ul li {
 }
 
 .blurb p {
-    color: #272822
+    color: #272822;
+    color: white;
 }
 	
 .topnav {
