@@ -206,7 +206,7 @@ nav ul li, footer ul li {
 
 
 .topnav a {
-  margin-left: 150px;
+  \\ margin-left: 150px;
   display:inline-block;
   padding: 15px;
   font-size: 20px;
