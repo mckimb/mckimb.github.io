@@ -183,7 +183,8 @@ nav ul li, footer ul li {
   display:inline-block;
   padding: 15px;
   font-size: 25px;
-  color: #272822;
+  \\ color: #272822;
+  color: white;
   text-align: center;
   text-decoration: none;
 }
