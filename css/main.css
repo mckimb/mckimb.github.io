@@ -132,7 +132,7 @@ nav ul li, footer ul li {
 	height:50px;
 }
 
-hr { 
+body hr { 
     display: block;
     margin-before: 0.5em;
     margin-after: 0.5em;
