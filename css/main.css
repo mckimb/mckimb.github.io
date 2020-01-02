@@ -93,7 +93,7 @@ nav ul li, footer ul li {
     top: 0;
     left: 0;
     right: 150px;
-    text-align:left;
+    text-align:center;
 }
 
 .topnav li {
@@ -104,8 +104,9 @@ nav ul li, footer ul li {
   display:inline-block;
   padding: 5px;
   font-size: 15px;
-  color: black;
+  color: #4d4d4d;
   text-decoration: none;
+  font-family: "Arial Black", Gadget, sans-serif
 }
 
 .topnav a:hover {
