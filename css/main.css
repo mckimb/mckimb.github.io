@@ -5,25 +5,20 @@ body {
     background-color: white;
 }
 
-body h3 {
-    color: black;
-}
-
-h3 {
-  position: absolute;
-  top: 25px;
-  z-index: 1;
+body h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4d4d4d;
 }
 
 body p {
-    font-size: 17px;
+    font-size: 13px;
     color: black;
     margin-left: 30px;
     margin-right: 30px;
 }
 
 body a {
-    font-size: 17px;
+    font-size: 13px;
     color: black;
     text-decoration: underline;
 }
