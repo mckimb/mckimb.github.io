@@ -87,12 +87,12 @@ nav ul li, footer ul li {
 .topnav {
     position: absolute;
     padding: 15px 15px;
-    background-color: white;
+    background-color: #f1f3f2;
     overflow: hidden;
     list-style:none;
     top: 0;
-    left: 150px;
-    right: 0;
+    left: 0;
+    right: 150px;
     text-align:left;
 }
 
