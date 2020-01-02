@@ -92,7 +92,7 @@ nav ul li, footer ul li {
     list-style:none;
     top: 0;
     left: 0;
-    right: 150px;
+    right: 0;
     text-align: center;
 }
 
@@ -102,8 +102,8 @@ nav ul li, footer ul li {
 
 .topnav a {
   display:inline-block;
-  padding: 5px;
-  font-size: 15px;
+  padding: 10px;
+  font-size: 13px;
   color: #4d4d4d;
   text-decoration: none;
   font-family: "Arial Black", Gadget, sans-serif;
