@@ -71,13 +71,13 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    color: white;
+    color: black;
 }
 
 nav ul li, footer ul li {
     display: inline;
     margin-right: 235px;
-    color: white;
+    color: black;
 }
 
 .blurb p {
@@ -118,7 +118,7 @@ nav ul li, footer ul li {
 
 .topnav a:hover {
   text-decoration: underline;
-  color: #274f49;
+  color: black;
 }
 
 .demobox {
