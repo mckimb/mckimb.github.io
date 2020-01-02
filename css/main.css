@@ -87,13 +87,13 @@ nav ul li, footer ul li {
 .topnav {
     position: absolute;
     padding: 15px 15px;
-    background-color: #f1f3f2;
+    background-color: #dddfde;
     overflow: hidden;
     list-style:none;
     top: 0;
     left: 0;
     right: 150px;
-    text-align:center;
+    text-align: center;
 }
 
 .topnav li {
@@ -106,12 +106,13 @@ nav ul li, footer ul li {
   font-size: 15px;
   color: #4d4d4d;
   text-decoration: none;
-  font-family: "Arial Black", Gadget, sans-serif
+  font-family: "Arial Black", Gadget, sans-serif;
 }
 
 .topnav a:hover {
   text-decoration: underline;
   color: black;
+  font-family: "Arial Black", Gadget, sans-serif;
 }
 
 .demobox {
