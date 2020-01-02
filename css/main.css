@@ -1,7 +1,7 @@
 body {
     margin-left: 150px;
     margin-right: 150px;
-    font-family: "Bitstream Charter";
+    font-family: "Roboto";
     background-color: white;
 }
 
@@ -91,7 +91,7 @@ nav ul li, footer ul li {
     overflow: hidden;
     list-style:none;
     top: 0;
-    left: 0;
+    left: 150px;
     right: 0;
     text-align:left;
 }
