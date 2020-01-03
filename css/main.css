@@ -50,12 +50,13 @@ body a:hover {
 
 .blurb a {
     color: #4d4d4d;
-    text-decoration: underline;
+    text-decoration: none;
+
 }
 
 .blurb a:hover {
     color: black;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 img.wrap {
