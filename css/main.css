@@ -84,6 +84,15 @@ nav ul li, footer ul li {
     color: black;
 }
 
+.blurb h2 {
+    font-size: 23px;
+    color: #4d4d4d;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-decoration: none;
+    text-align: left;
+	
+}
+
 .dot1 {
   height: 25%;
   width: 25%;
