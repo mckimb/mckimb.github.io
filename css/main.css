@@ -104,7 +104,8 @@ nav ul li, footer ul li {
 .topnav {
     position: absolute;
     padding: 12px 12px;
-    background-color: #dddfde;
+/*     background-color: #dddfde; */
+    background-color: #ffffff;
     overflow: hidden;
     list-style:none;
     top: 0;
